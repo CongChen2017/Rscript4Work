@@ -1,1 +1,1 @@
-# Store my R scripts for work, mainly RNA-seq related analysis.
+# Store my R & Python scripts for work, including RNA-seq related analysis.
